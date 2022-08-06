@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<br />
+
 _Credit to Sonny Sangha for his amazing React.js tutorial!<br />
 I adjusted the firebase section to the newest version (v9), but the image uploaders aren't working properly, <br />
 they'll be fixed soon after I found the solution. <br />
