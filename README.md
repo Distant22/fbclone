@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+-
+Credit to Sonny Sangha for his amazing React.js tutorial!
+I adjusted the firebase section to the newest version (v9), but the image uploaders aren't working properly, they'll be fixed soon after I found the solution. 
+-22.08.06
+-
+
+![fbclonedisplay](https://user-images.githubusercontent.com/82443036/183256094-dd775d94-a21d-4cdd-9db0-e0b54ac8c07f.png)
+
+
 ## Getting Started
 
 First, run the development server:
